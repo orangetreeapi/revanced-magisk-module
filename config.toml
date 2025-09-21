@@ -6,13 +6,19 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
+# config.toml
 [Instagram]
-# apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+apkmirror-dpi = "480dpi"
+
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+version = "397.1.0.52.81"
+
+included-patches = "'Limit feed to followed profiles' 'Hide explore feed' 'Hide navigation buttons'"
 patcher-args = "-e 'Hide navigation buttons' -OhideReels=true -OhideCreate=true"
 arch = "arm64-v8a"
 build-mode = "both"
-# apkmirror-dpi = "480dpi"
+
 
 [Reddit]
 enabled = false
