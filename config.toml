@@ -8,8 +8,8 @@ parallel-jobs = 1
 
 # config.toml
 [Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-apkmirror-dpi = "480dpi"
+#apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+#apkmirror-dpi = "480dpi"
 
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 version = "397.1.0.52.81"
