@@ -10,7 +10,6 @@ parallel-jobs = 1
 [Instagram]
 #apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 #apkmirror-dpi = "480dpi"
-
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 #version = "397.1.0.52.81"
 #included-patches = "'Limit feed to followed profiles' 'Hide explore feed' 'Hide navigation buttons'"
@@ -19,9 +18,14 @@ patcher-args = "-e 'Hide navigation buttons' -OhideReels=true -OhideCreate=true"
 arch = "arm64-v8a"
 build-mode = "both"
 
+[Messenger]
+uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
+excluded-patches = "'Disable typing indicator'"
+arch = "arm64-v8a"
+build-mode = "both"
 
 [Reddit]
-enabled = false
+#enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 arch = "arm64-v8a"
 build-mode = "both"
