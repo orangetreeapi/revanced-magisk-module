@@ -1,4 +1,5 @@
-Instagram: 397.1.0.52.81  
+Instagram: 399.0.0.51.85  
+Messenger: 526.0.0.52.108  
 Music: 8.10.52  
 YouTube: 20.14.43  
 
