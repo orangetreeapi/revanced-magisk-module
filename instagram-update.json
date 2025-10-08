@@ -1,6 +1,6 @@
 {
-  "version": "v399.0.0.51.85 (patches 5.41.0)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/orangetreeapi/revanced-magisk-module/releases/download/2/instagram-revanced-magisk-v399.0.0.51.85-arm64-v8a.zip",
+  "version": "v401.0.0.48.79 (patches 5.42.1)",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/orangetreeapi/revanced-magisk-module/releases/download/3/instagram-revanced-magisk-v401.0.0.48.79-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/orangetreeapi/revanced-magisk-module/update/build.md"
 }
