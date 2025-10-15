@@ -1,6 +1,6 @@
 {
-  "version": "v402.0.0.49.70 (patches 5.43.0)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/orangetreeapi/revanced-magisk-module/releases/download/4/instagram-revanced-magisk-v402.0.0.49.70-arm64-v8a.zip",
+  "version": "v402.0.0.49.70 (patches 5.43.1)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/orangetreeapi/revanced-magisk-module/releases/download/5/instagram-revanced-magisk-v402.0.0.49.70-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/orangetreeapi/revanced-magisk-module/update/build.md"
 }
